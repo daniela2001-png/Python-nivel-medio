@@ -33,7 +33,6 @@ print(difference_sets)
 difference_sets = set_b - set_a
 print(difference_sets)
 
-
 # the symmetric difference between two sets is equal to union of them minus their intersection
 
 # number one -> doing first an union method minus their intersection
