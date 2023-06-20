@@ -7,3 +7,6 @@
 
 ### Partes de una función
 ![](https://static.platzi.com/media/user_upload/388-45afaa62-dd7b-4221-bc51-b63a27622b59.jpg "Partes de una función")
+
+### Scopes en Python :)
+![](https://res.cloudinary.com/dyd911kmh/image/upload/f_auto,q_auto:best/v1588956604/Scope_fbrzcw.png "Scopes en Python")
